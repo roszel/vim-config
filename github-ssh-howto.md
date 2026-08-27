@@ -1,5 +1,8 @@
 # GitHub Repository + SSH kulcs beállítás
 
+## Letöltéshez:
+git clone git@github.com:roszel/vim-config.git
+
 ## Cél
 
 HTTPS helyett SSH kulccsal szeretnénk GitHub-ra push-olni, hogy ne kérjen
